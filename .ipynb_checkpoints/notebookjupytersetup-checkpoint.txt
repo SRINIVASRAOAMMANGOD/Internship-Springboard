@@ -1,0 +1,1 @@
+type jupyter notebook in cmd
