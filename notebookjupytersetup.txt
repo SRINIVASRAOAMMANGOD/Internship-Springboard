@@ -1,2 +1,0 @@
-type jupyter notebook in cmd
-not running in windows
