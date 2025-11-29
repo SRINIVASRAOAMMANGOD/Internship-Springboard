@@ -63,4 +63,38 @@ All features are implemented across **four milestones**, each documented in the 
 ---
 
 ## 📁 Project Structure
+├── data/
+│ └── tweets.csv (or your dataset)
+├── notebooks/
+│ ├── SRINIVAS_MILESTONE-1.ipynb
+│ ├── SRINIVAS_MILESTONE-2.ipynb
+│ ├── MILESTONE-3-SRINIVAS.ipynb
+│ └── IntershipProject.ipynb (Milestone 4)
+├── app.py (Streamlit UI)
+├── utils.py (Optional helper functions)
+├── requirements.txt
+└── Documentation.pdf <-- Final PDF documentation
 
+
+---
+
+## 📚 Full Documentation (Recommended for Review)
+
+A complete milestone-wise technical documentation (including code, workflow, design, and explanations) is available in the PDF:
+
+👉 **Please refer to the PDF file `_Parallel_Text_Processing_Documentation.pdf_` for complete details of this project.**  
+This PDF is suitable for:
+
+- Interview presentation  
+- Internship review  
+- Project submission  
+- Academic or professional portfolio  
+
+---
+
+## 🔧 Installation & Setup
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/SRINIVASRAOAMMANGOD/Parallel-Text-Processing-Project.git
+cd Parallel-Text-Processing-Project
